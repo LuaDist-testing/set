@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "set"
 version = "0.1-1"
--- LuaDist source
 source = {
-  tag = "0.1-1",
-  url = "git://github.com/LuaDist-testing/set.git"
+  url = "git://github.com/wscherphof/lua-set.git",
+  branch = "v0.1"
 }
--- Original source
--- source = {
---   url = "git://github.com/wscherphof/lua-set.git",
---   branch = "v0.1"
--- }
 description = {
   summary = "Straightforward Set library",
   detailed = [[
